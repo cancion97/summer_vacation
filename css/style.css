@@ -266,7 +266,7 @@ header .drawerButton span {
   display: block;
   width: 36px;
   height: 3px;
-  background-color: rgb(0, 168, 197);
+  background-color: #00a8c5;
   border-radius: 3px;
   position: absolute;
   transition: 0.3s all linear;
@@ -391,7 +391,7 @@ header .drawerMenu.active {
   }
 }
 .header_wrap nav .list a:hover {
-  color: rgb(0, 168, 197);
+  color: #00a8c5;
   transform: scale(1.1);
 }
 @media (width < 768px) {
@@ -526,8 +526,8 @@ footer small {
   min-width: 330px;
   flex-basis: 58.3%;
   background-color: #fff;
-  border: 3px rgb(0, 168, 197) solid;
-  box-shadow: 10px 10px 0 rgb(0, 168, 197);
+  border: 3px #00a8c5 solid;
+  box-shadow: 10px 10px 0 #00a8c5;
   border-radius: 2rem;
 }
 @media (width < 800px) {
@@ -628,16 +628,16 @@ iframe {
   flex-direction: column;
   align-items: center;
   background-color: rgba(255, 255, 255, 0.4745098039);
-  color: rgb(0, 168, 197);
-  box-shadow: 10px 10px 0 rgb(0, 168, 197);
-  border: 3px rgb(0, 168, 197) solid;
+  color: #00a8c5;
+  box-shadow: 10px 10px 0 #00a8c5;
+  border: 3px #00a8c5 solid;
   border-radius: 2rem;
   margin-inline: auto;
   padding: 2rem;
   margin-block-end: 2rem;
 }
 .calender_aside .calender_box p {
-  color: rgb(0, 168, 197);
+  color: #00a8c5;
   font-family: "Shrikhand", serif;
   font-size: 2rem;
   padding-block-end: 1rem;
@@ -696,7 +696,7 @@ iframe {
   color: rgb(0, 222, 222);
 }
 .calender_aside .calender_box th {
-  color: rgb(0, 168, 197);
+  color: #00a8c5;
   font-size: 1.5rem;
 }
 @media (width < 800px) {
@@ -725,8 +725,8 @@ iframe {
 }
 .calender_aside .place_wrap {
   background-color: rgba(113, 230, 228, 0.4745098039);
-  box-shadow: 10px 10px 0 rgb(0, 168, 197);
-  border: 3px rgb(0, 168, 197) solid;
+  box-shadow: 10px 10px 0 #00a8c5;
+  border: 3px #00a8c5 solid;
   border-radius: 2rem;
   display: flex;
   flex-direction: column;
@@ -749,7 +749,7 @@ iframe {
 }
 .calender_aside .place_wrap .text_place p {
   color: #333;
-  border-bottom: 1.5px rgb(0, 168, 197) solid;
+  border-bottom: 1.5px #00a8c5 solid;
   border-spacing: 0;
 }
 .calender_aside .place_wrap .text_place p a {
@@ -760,7 +760,7 @@ iframe {
   transition: 0.3s;
 }
 .calender_aside .place_wrap .text_place p a:hover {
-  color: rgb(0, 168, 197);
+  color: #00a8c5;
   transform: translateX(1.5rem) scale(1.1);
 }
 
