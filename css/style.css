@@ -433,7 +433,7 @@ header .drawerMenu.active {
   top: 0;
   left: 50%;
   width: 100%;
-  max-width: 1200px;
+  width: 100vw;
   height: 750px;
   transform: translateX(-50%);
   overflow: hidden;
